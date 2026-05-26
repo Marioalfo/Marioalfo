@@ -1,9 +1,10 @@
 ## Hi there 👋
+I'm from Chile
 
-I'm currently not in university, i'm studyng by myself.
+I'm currently studing in Inacap
 
-I'm learning python, wordpress and github
+I'm learning python, html, css, javascript.
 
-I've 22 years old.
+I've 23 years old.
 
 I'm male.
